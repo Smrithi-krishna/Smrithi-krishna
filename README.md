@@ -45,9 +45,10 @@
 
 ## 📊 GitHub Stats
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smrithi-krishna&theme=react" alt="Profile Details" />
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smrithi-krishna&theme=react" alt="Profile Details" />
- 
+   
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Smrithi-krishna&theme=blueberry)
 
 
