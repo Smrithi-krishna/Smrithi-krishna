@@ -48,13 +48,11 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smrithi-krishna&theme=react" alt="Profile Details" />
  
-</p>
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Smrithi-krishna&theme=blueberry)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Smrithi-krishna&theme=blueberry)
+<img height="180em" src="https://github-readmeapp.vercel.app/api?username=Smrithi-krishna&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 
-<p align="center">
-   <img height="180em" src="https://github-readmeapp.vercel.app/api?username=Smrithi-krishna&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </p>
 
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Smrithi-krishna&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/dhairyagothi)
