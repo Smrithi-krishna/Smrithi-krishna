@@ -3,17 +3,25 @@
 # <img src="hands.gif" height="40" /> Hey, I am Smrithi Krishna
 
 **Developer in the Making | Exploring Web, Software & Open Source | Continuous Learner**
----
 
-## 🚀 About Me
 
-I am a Computer Science Engineering student (2025–2029) .
-passionate about exploring diverse areas of technology. I enjoy learning by building, experimenting with ideas across different domains, and strengthening my problem-solving skills through projects and practice.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-- 🚀 Actively building projects to improve problem-solving skills  
-- 🤝 Open to collaboration and open-source contributions  
+## 🦋 About Me
 
----
+✨ Computer Science Engineering Student (2025–2029)
+
+✨ Passionate about exploring diverse areas of technology and software development.
+
+✨ I enjoy learning by building projects, experimenting with new ideas, and continuously improving my problem-solving skills.
+
+✨ Actively developing projects and expanding my technical knowledge.
+
+✨ Open to collaboration, open-source contributions, and learning opportunities.
+
+✨ Always curious, always learning, and always building.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🛠️ Tech Stack
 
@@ -32,17 +40,37 @@ passionate about exploring diverse areas of technology. I enjoy learning by buil
 ### 🎨 Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smrithi-krishna&theme=react" alt="Profile Details" />
+ 
+</p>
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Smrithi-krishna&theme=blueberry)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Smrithi-krishna&theme=discord)
+<p align="center">
+   <img height="180em" src="https://github-readmeapp.vercel.app/api?username=Smrithi-krishna&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+</p>
 
----
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Smrithi-krishna&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/dhairyagothi)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:avsmrithikrishna8a@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smrithi-krishna-741a37374/)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+*"Turning ideas into code, and code into impact."*
+
+</div>
