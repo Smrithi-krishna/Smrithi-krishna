@@ -2,12 +2,12 @@
 
 # <img src="hands.gif" height="40" /> Hey, I am Smrithi Krishna
 
-**Developer in the Making | Exploring Web, Software & Open Source | Continuous Learner**
+**Computer Science Student • Web Development • Open Source Learner**
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="divider.gif" height ="1" width="900">
 
-## 🦋 About Me
+## 🌿 About Me
 
 ✨ Computer Science Engineering Student (2025–2029)
 
@@ -21,52 +21,54 @@
 
 ✨ Always curious, always learning, and always building.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="divider.gif" height ="1" width="900">
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+![C](https://img.shields.io/badge/C-5F7A65.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-5F7A65?style=for-the-badge&logo=html5&logoColor=F7F4ED)
+![CSS3](https://img.shields.io/badge/CSS3-5F7A65?style=for-the-badge&logo=css3&logoColor=F7F4ED)
+![JavaScript](https://img.shields.io/badge/JavaScript-5F7A65?style=for-the-badge&logo=javascript&logoColor=F7F4ED)
+![Python](https://img.shields.io/badge/Python-5F7A65?style=for-the-badge&logo=python&logoColor=F7F4ED)
+
 
 ### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-5F7A65.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5F7A65.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-5F7A65.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-5F7A65.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🎨 Design
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-5F7A65.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="divider.gif" height ="1" width="900">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smrithi-krishna&theme=react" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smrithi-krishna&theme=github_dark" />
 
 <p align="center">
    
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Smrithi-krishna&theme=blueberry)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Smrithi-krishna&theme=dark)
 
-
-<img height="180em" src="https://github-readmeapp.vercel.app/api?username=Smrithi-krishna&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smrithi-krishna&show_icons=true&theme=transparent&hide_border=true" />
 
 </p>
 
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Smrithi-krishna&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/dhairyagothi)
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Smrithi-krishna&bg_color=F7F4ED&color=5F7A65&line=D4A373&point=5F7A65&hide_border=true)](https://github.com/Smrithi-krishna)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+<img src="divider.gif" height ="1" width="900">
 
 ## 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:avsmrithikrishna8a@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smrithi-krishna-741a37374/)
+[![Gmail](https://img.shields.io/badge/Gmail-5F7A65.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:avsmrithikrishna8a@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5F7A65.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smrithi-krishna-741a37374/)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="divider.gif" height ="1" width="900">
 
 <div align="center">
 
