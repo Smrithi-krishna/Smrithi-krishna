@@ -66,7 +66,7 @@
 ## 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-5F7A65.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:avsmrithikrishna8a@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5F7A65.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smrithi-krishna-741a37374/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5F7A65.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smrithi-krishna)
 
 <img src="divider.gif" height ="1" width="900">
 
