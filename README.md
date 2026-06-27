@@ -4,7 +4,7 @@
 
 **Computer Science Student • Web Development • Open Source Learner**
 
-
+[![Portfolio](https://img.shields.io/badge/💛_Portfolio-Visit_Site-D4A373?style=for-the-badge&labelColor=5F7A65)](https://smrithi-krishna.github.io/Portfolio/)
 <img src="divider.gif" height ="1" width="900">
 
 ## 🌿 About Me
