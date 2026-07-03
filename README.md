@@ -41,6 +41,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-5F7A65.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-5F7A65?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-5F7A65.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 
