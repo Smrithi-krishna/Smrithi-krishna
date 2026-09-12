@@ -1,4 +1,4 @@
-<img src="White and pink Modern Personal LinkedIn Banner.png" alt="Banner" />
+<img src="White and pink Modern Personal LinkedIn Banner(1).png" alt="Banner" />
 
 # <img src="hands.gif" height="40" /> Hey, I am Smrithi Krishna
 
